@@ -66,7 +66,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div id="recaptcha"></div>
-        <h1 align="center" >Hello WOrld</h1>
+        <h1 align="center" >Hello World</h1>
 
       <button onClick={onSubmit}>On Submit</button>
       </main>
